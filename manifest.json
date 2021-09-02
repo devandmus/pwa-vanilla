@@ -1,0 +1,28 @@
+{
+  "theme_color": "#317EFB",
+  "background_color": "#317EFB",
+  "description": "PWA test",
+  "display": "standalone",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "name": "PWA",
+  "short_name": "PWA",
+  "start_url": "./"
+}
